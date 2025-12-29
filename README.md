@@ -1,5 +1,7 @@
 # ChatGPT Chat Cleanup / bulk delete (Edge/Chrome Extension)
 
+Leave a star ⭐️ if you like it :)
+
 How to install and use it: https://youtu.be/rALBULkVcn0
 
 Bulk-select and delete conversations from the ChatGPT sidebar. This extension injects a small “Chat Cleanup” panel into the chat history sidebar and adds checkboxes to conversations under **“Your chats”**, so you can remove many chats quickly with progress feedback.
