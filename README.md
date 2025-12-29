@@ -1,6 +1,6 @@
 # ChatGPT Chat Cleanup / bulk delete (Edge/Chrome Extension)
 
-Leave a star ⭐️ if you like it :)
+**Leave a star ⭐️ if you like it :)**
 
 How to install and use it: https://youtu.be/rALBULkVcn0
 
