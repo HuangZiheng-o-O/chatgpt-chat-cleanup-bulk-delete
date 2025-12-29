@@ -12,6 +12,9 @@ Bulk-select and delete conversations from the ChatGPT sidebar. This extension in
 
 ## Features
 
+<img width="238" height="224" alt="Screenshot 2025-12-29 at 00 02 01" src="https://github.com/user-attachments/assets/584d7662-6877-4b08-b986-432e36662a64" />
+
+
 - **Bulk selection**: Checkboxes next to chats under “Your chats”.
 - **Select all / clear**: Quickly select or clear visible chats.
 - **Bulk delete with progress**: Status and progress bar during deletion.
