@@ -64,12 +64,4 @@ Bulk-select and delete conversations from the ChatGPT sidebar. This extension in
 
 **Important:** Deletion is permanent according to ChatGPT’s behavior. Review your selection before deleting.
 
----
 
-## License
-
-You are allowed to use this software for **personal, non-commercial purposes only**.
-
-Commercial use, redistribution, or inclusion in paid products or services is **not permitted** without prior written permission.
-
-See the [LICENSE](./LICENSE) file for details.
